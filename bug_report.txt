@@ -1,0 +1,13 @@
+
+ID:
+Summary:
+Severity:
+Environment:
+Autor:
+Assign:
+Precondition:
+Steps:
+Expected_result:
+Actual_result:
+Attachment:
+Affected_version:
